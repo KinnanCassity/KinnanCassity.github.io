@@ -1,7 +1,9 @@
-title: "Yannick TASSIN"
-description: "Lead Sound Designer"
-baseurl: "https://github.com"
-url: "KinnanCassity.github.io"
+title: Yannick TASSIN
+description: Lead Sound Designer
+baseurl: ""
+url: "https://KinnanCassity.github.io"
+
+theme: cvless
 
 exclude:
   - demo/
